@@ -6,7 +6,10 @@ AndroidStudioでのRobolectricの利用方法がバージョンごとにいろ�
 (結果的にはすごくシンプルな設定なったけど)
 今後も設定方法が変わっていくとは思いますが
 2014/05/24時点でのRobolectricの設定をメモっておきます。
+ポイントになるコミットは下記の２つです
 
+- [robolectric追加](https://github.com/naosim/RobolectricSample/commit/1920470baa7675d8aef71340b30e502527e6c560)
+- [テスト追加](https://github.com/naosim/RobolectricSample/commit/5a2ad995e20b314232a224dd5d20306a878bb643)
 
 ## 設定方法
 - プロジェクトはCompleSDKVersionをAPIレベル18以下で作る
