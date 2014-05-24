@@ -35,6 +35,6 @@ public class MainActivity extends ActionBarActivity {
     }
 
     public static boolean getTrue() {
-        return false;
+        return true;
     }
 }
